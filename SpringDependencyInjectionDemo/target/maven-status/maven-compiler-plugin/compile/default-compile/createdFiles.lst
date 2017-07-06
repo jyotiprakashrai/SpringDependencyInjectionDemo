@@ -1,0 +1,8 @@
+com/jyoti/spring/configuration/DIConfiguration.class
+com/jyoti/spring/App.class
+com/jyoti/spring/XMLApp.class
+com/jyoti/spring/services/MessageService.class
+com/jyoti/spring/consumer/MyXMLApplication.class
+com/jyoti/spring/services/FacebookService.class
+com/jyoti/spring/services/EmailService.class
+com/jyoti/spring/consumer/MyApplication.class
